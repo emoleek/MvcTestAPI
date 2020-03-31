@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcTestAPI", "MvcTestAPI\MvcTestAPI.csproj", "{E1D56A8C-8858-4CFC-B357-91F0D7183285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTestWeb", "MvcTestWeb\MvcTestWeb.csproj", "{39FEFF6B-C008-4EB7-9EFC-907806F8183F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D56A8C-8858-4CFC-B357-91F0D7183285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D56A8C-8858-4CFC-B357-91F0D7183285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D56A8C-8858-4CFC-B357-91F0D7183285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D56A8C-8858-4CFC-B357-91F0D7183285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FEFF6B-C008-4EB7-9EFC-907806F8183F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FEFF6B-C008-4EB7-9EFC-907806F8183F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FEFF6B-C008-4EB7-9EFC-907806F8183F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FEFF6B-C008-4EB7-9EFC-907806F8183F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A6CB28-831C-49D1-92B9-9EE8CA3244C1}
+	EndGlobalSection
+EndGlobal
